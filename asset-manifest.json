@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eightball/static/css/main.4c62715e.chunk.css",
+    "main.js": "/eightball/static/js/main.cb3ef8f2.chunk.js",
+    "main.js.map": "/eightball/static/js/main.cb3ef8f2.chunk.js.map",
+    "runtime-main.js": "/eightball/static/js/runtime-main.b546eb1d.js",
+    "runtime-main.js.map": "/eightball/static/js/runtime-main.b546eb1d.js.map",
+    "static/js/2.97de36b4.chunk.js": "/eightball/static/js/2.97de36b4.chunk.js",
+    "static/js/2.97de36b4.chunk.js.map": "/eightball/static/js/2.97de36b4.chunk.js.map",
+    "static/js/3.b1665274.chunk.js": "/eightball/static/js/3.b1665274.chunk.js",
+    "static/js/3.b1665274.chunk.js.map": "/eightball/static/js/3.b1665274.chunk.js.map",
+    "index.html": "/eightball/index.html",
+    "static/css/main.4c62715e.chunk.css.map": "/eightball/static/css/main.4c62715e.chunk.css.map",
+    "static/js/2.97de36b4.chunk.js.LICENSE.txt": "/eightball/static/js/2.97de36b4.chunk.js.LICENSE.txt",
+    "static/media/eightball.5c347cb0.jpg": "/eightball/static/media/eightball.5c347cb0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b546eb1d.js",
+    "static/js/2.97de36b4.chunk.js",
+    "static/css/main.4c62715e.chunk.css",
+    "static/js/main.cb3ef8f2.chunk.js"
+  ]
+}
